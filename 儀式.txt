@@ -1,0 +1,6 @@
+cd C:\Users\U.M\Desktop\授業\IS3年\taka\djangogirls
+myvenv\Scripts\activate
+python manage.py runserver
+
+
+ブラウザでhttp://127.0.0.1:8000/
